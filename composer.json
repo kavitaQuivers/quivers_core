@@ -1,0 +1,16 @@
+{
+    "name": "quiverscore/quiverscore-php",
+    "description": "Quivers Core Library",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    },
+      "homepage": "https://www.quivers.com/",
+      "license": "MIT",
+      "authors": [
+        {
+          "name": "Quivers and contributors",
+          "homepage": "https://github.com/kavitaQuivers/quivers_core"
+        }
+      ]
+}
